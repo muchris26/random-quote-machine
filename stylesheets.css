@@ -5,7 +5,6 @@
   padding: 10% 5% 5% 5%;
   background-color: #000;
   color: #FFF;
-  font-size: 2em;
   border-radius: 10px;
   opacity: .75;
 }
@@ -16,4 +15,13 @@ img {
   z-index: -1;
   position: absolute;
   opacity: .5
+}
+a {
+  color: #FFF;
+}
+#swquote {
+  font-size: 2em;
+}
+#swsource {
+  font-size: 1.5em;
 }
